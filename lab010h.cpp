@@ -1,5 +1,3 @@
-//asdfg
-
 #include <iostream>
 #include <cmath>
 
