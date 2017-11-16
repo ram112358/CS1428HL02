@@ -9,7 +9,7 @@ int main(){
     int n;
     cout << "Enter the number: ";
     cin >> n;
-    cout << "Factorial of "<< n << ": "<< factorial(n);
+    cout << "Factorial of "<< n << ": "<< factorial(n) << endl;
     cout << n <<"th fibonaci number: " << fibonacci(n);
     return 0;
 }
